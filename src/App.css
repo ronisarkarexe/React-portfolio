@@ -55,14 +55,23 @@
 .color{
   color:#024a97 ;
 }
+.fb-color-chang{
+  color:#003772 ;
+}
 .link-color{
   color: #0A66C2
+}
+.link-color-chang{
+  color: #00376d;
 }
 .git-color{
   color: black;
 }
 .medium-color{
   color: rgb(58, 58, 58)
+}
+.medium-color-change{
+  color: rgb(31, 31, 31)
 }
 .text-name{
   font-family: 'Dancing Script', cursive;
@@ -98,6 +107,11 @@
   padding: 5px 9px;
   border-radius:5px;
 }
+.div-class-button:hover{
+  border: 1px solid #0056B3;
+  background-color:white;
+  color:#0056B3
+}
 .img-round{
   border-radius: 5px;
 }
@@ -126,4 +140,16 @@
 .my-blog{
   font-size: 60px;
   font-family: 'Times New Roman', Times, serif;
+}
+.send-massage-btn{
+  padding:8px 15px;
+  background-color:white;
+  border: 1px solid black;
+  border-radius:8px;
+  color:black;
+}
+.send-massage-btn:hover{
+  border: none;
+  background-color:#0056B3;
+  color: white;
 }

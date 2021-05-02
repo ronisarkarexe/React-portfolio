@@ -5,7 +5,7 @@ import roni from '../../Image/ronisarkar.png'
 
 const Header = () => {
    return (
-      <div className="container-fluid fixed-top">
+      <div className="fixed-top">
          <Navbar className="header-bg-color" expand="lg">
             <Navbar.Brand className="header-name" href="#home"><img className="img-fluid-header" src={roni} alt="roni"/></Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
