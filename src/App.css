@@ -153,3 +153,42 @@
   background-color:#0056B3;
   color: white;
 }
+.img-fluid-carouse{
+  width:230px;
+  height:150px;
+  justify-content: center;
+}
+.carousel-size{
+  background-color:#3a3a3a;
+  padding:20px 40px;
+}
+.summary-size{
+  font-size:19px;
+  font-weight: 600;
+}
+.title-car-size{
+  font-size:15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Image animation */
+figure {
+	margin: 0;
+	padding: 0;
+	background: #fff;
+	overflow: hidden;
+}
+figure:hover+span {
+	bottom: -36px;
+	opacity: 1;
+}
+.hover01 figure img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hover01 figure:hover img {
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}

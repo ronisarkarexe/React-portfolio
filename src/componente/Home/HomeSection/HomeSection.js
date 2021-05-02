@@ -14,13 +14,12 @@ const HomeSection = () => {
                <h5 className="mt-3 mb-3 text-font text-secondary">Im a MERN Developer who is always creating and learning awesome stuff. let's start scrolling and learn more <br/> about me</h5>
                <div>
                   <a href="https://github.com/ronisarkar1"><i class="fab fa-github git-color fa-2x"></i></a>
-                  <a href="https://web.facebook.com/ronisarkar.outlook"><i class="fab ps-3 fa-facebook color fa-2x"></i></a>
                   <a href="https://www.linkedin.com/in/ronisarkar76/"><i class="fab ps-3 fa-linkedin link-color fa-2x"></i></a>
                   <a href="https://medium.com/@ronisarkar2244"><i class="fab ps-3 fa-2x medium-color fa-medium"></i></a>
                </div>
                <div className="mt-4">
                   <a href="#contact"><button className="me-4 bth-color-hire">Hire Me</button></a>
-                  <a href="https://drive.google.com/file/d/1-kHrSF5m7LR-TpNtdma1rjs8IU_gVc1J/view" target="_blank"><button as={Link} className="bth-color">Download Resume <FontAwesomeIcon icon={faArrowDown} /> </button></a>
+                  <a href="https://drive.google.com/file/d/1-kHrSF5m7LR-TpNtdma1rjs8IU_gVc1J/view" target="_blank"><button as={Link} className="bth-color">Resume <FontAwesomeIcon icon={faArrowDown} /> </button></a>
                </div>
             </div>
             <div className="col-md-6">

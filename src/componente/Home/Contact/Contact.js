@@ -29,7 +29,6 @@ const Contact = () => {
                   </div>
                   <div className="mt-5">
                      <a href="https://github.com/ronisarkar1"><i class="fab fa-github git-color fa-2x"></i></a>
-                     <a href="https://web.facebook.com/ronisarkar.outlook"><i class="fab ps-3 fa-facebook fb-color-chang fa-2x"></i></a>
                      <a href="https://www.linkedin.com/in/ronisarkar76/"><i class="fab ps-3 fa-linkedin link-color-chang fa-2x"></i></a>
                      <a href="https://medium.com/@ronisarkar2244"><i class="fab ps-3 fa-2x medium-color-change fa-medium"></i></a>
                   </div>

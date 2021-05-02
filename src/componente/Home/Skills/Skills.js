@@ -13,7 +13,7 @@ const Skills = () => {
                <img className="img-fluid" src={coding} alt=""/>
             </div>
             <div className="col-md-6 mt-5 pt-3">
-               <h1 className="change-text">What i do</h1>
+               <h1 className="change-text">My Skills</h1>
                <h5 className="text-secondary">CRAZY FULL STACK DEVELOPER AND WANTS TO EXPLORE EVERY TECH STACK</h5>
                <label for="customRange3" class="form-label">HTML5</label>
                <ProgressBar now={80} label={`${80}%`} />
