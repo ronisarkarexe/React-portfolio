@@ -15,7 +15,7 @@ const PersonalDerails = () => {
                <h3 className="personal-header">My MERN Developer journey</h3>
                <p className="text-secondary">I started a Full-stack web developer journey 1 year ago when I feel bored in lockdown. And the journey till now has been really awesome. I like to solve problems through my skills and intellectual curiosity. I love to learn new technologies and features. There was always a passion working inside me. I can come this far today for this patient.</p>
                <p className="text-secondary">I am learning and highly passionate about Javascript development technologies such as:-
-                  MARN Stack (MongoDB, React, Express.js, Node.js)</p>
+                  MARN Stack (MongoDB, React, Redux Express.js, Node.js)</p>
             </div>
          </div>
       </section>

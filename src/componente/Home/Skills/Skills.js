@@ -24,6 +24,8 @@ const Skills = () => {
                <label for="customRange3" class="form-label">JavaScript</label>
                <ProgressBar now={80} label={`${80}%`} />
                <label for="customRange3" class="form-label">React</label>
+               <ProgressBar now={68} label={`${68}%`} />
+               <label for="customRange3" class="form-label">Redux</label>
                <ProgressBar now={85} label={`${85}%`} />
                <label for="customRange3" class="form-label">Node</label>
                <ProgressBar now={75} label={`${75}%`} />

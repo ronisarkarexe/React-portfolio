@@ -10,6 +10,8 @@ import yoga from '../../../Image/yogger1.PNG'
 import club1 from '../../../Image/club1.PNG'
 import rock1 from '../../../Image/Handrok1.PNG'
 import tithi2 from '../../../Image/thite1.PNG'
+import sangrila from '../../../Image/SanGrila1.PNG'
+import sangrila2 from '../../../Image/SanGrila2.PNG'
 
 const projects = [
    {
@@ -50,6 +52,15 @@ const projects = [
       technology:'Javascript, HTML5, CSS, React, React-Router, Bootstrap, FontAwesome, The Sports DB API'
    },
    {
+      img: sangrila,
+      img2: sangrila2,
+      name: 'Shangrila Restaurant',
+      title: 'Users can book a table by reservation for breakfast, lunch, and dinner. He could get better food ideas in our gallery and banner sections. The user can give feedback about foods shown in testimonials.',
+      link: 'https://fervent-banach-614692.netlify.app/',
+      github: 'https://github.com/ronisarkar1/Shangrila-Restaurant',
+      technology:'React, Redux, Firebase, Bootstrap, Font awesome, Github, Trello',
+   },
+   {
       img: booking,
       img2: booking,
       name: 'Cruise Queen',
@@ -58,6 +69,7 @@ const projects = [
       github: 'https://github.com/ronisarkar1/Cruise-Queen',
       technology:'',
    },
+
 ]
 
 const Project = () => {
